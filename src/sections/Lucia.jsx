@@ -18,7 +18,7 @@ const Lucia = () => {
       scrollTrigger: {
         trigger: '.lucia-life',
         start: 'top center',
-        end: '80% center',
+        end: '80% top ',
         scrub: 2
       }, y: -200, duration: 1, ease: 'power1.inOut'
     }, '<')
