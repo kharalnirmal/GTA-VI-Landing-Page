@@ -16,13 +16,13 @@ const tl = gsap.timeline({
         trigger:".lucia",
         start:"top top",
         end:"bottom top",
-        scrub: 2.5,
+        scrub: 2,
         pin: true,
     }
 })
 tl.to(".lucia",{
     opacity: 1,
-    duration: 2,
+    duration: 3,
     ease: 'power1.inOut'
 })
 videoRef.current.onloadedmetadata = () => {
