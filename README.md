@@ -87,6 +87,3 @@ Built with GSAP and ScrollTrigger for:
 
 This project demonstrates advanced web animation techniques using GSAP's ScrollTrigger plugin for creating immersive, scroll-driven experiences. <cite/> The component architecture follows React best practices with hooks for animation lifecycle management. [16](#0-15)  Each video component implements the same scrubbing pattern but with different trigger configurations for varied user experiences.
 
-Wiki pages you might want to explore:
-- [Character Introduction Sections (kharalnirmal/GTA-VI-Landing-Page)](/wiki/kharalnirmal/GTA-VI-Landing-Page#3.2)
-- [Video Components (kharalnirmal/GTA-VI-Landing-Page)](/wiki/kharalnirmal/GTA-VI-Landing-Page#3.3)
