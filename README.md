@@ -8,7 +8,7 @@
 ![React](https://img.shields.io/badge/React-18.2.0-blue?logo=react&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-ScrollTrigger-green?logo=greensock&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3.3.2-blue?logo=tailwindcss&logoColor=white)
-![License](https://img.shields.io/github/license/your-username/gta-vi-landing-page)
+![License](https://img.shields.io/github/license/kharalnirmal/gta-vi-landing-page)
 ![Vite](https://img.shields.io/badge/Vite-Fast%20Builds-ff69b4?logo=vite&logoColor=white)
 
 
@@ -157,19 +157,9 @@ The application ensures an adaptive and consistent user experience across variou
 This matrix, defined in `constant/index.js`, allows for precise control over how elements are displayed and animated on different screen sizes, ensuring optimal performance and visual fidelity. The `src/sections/Hero.jsx` file further demonstrates the application of these settings.
 
 
-
-
-
 ## 🚀 Live Demo
 
 Experience the GTA VI Landing Page live: [https://gta-vi-landing-page-cyan.vercel.app/](https://gta-vi-landing-page-cyan.vercel.app/)
-
-![GTA VI Coming Soon](https://private-us-east-1.manuscdn.com/sessionFile/5wm81iNEXpdvy4yzUFZRae/sandbox/OR4ToyHn12YUYkW6Wbvj4l-images_1753239853195_na1fn_L2hvbWUvdWJ1bnR1L2d0YV92aV9jb21pbmdfc29vbg.webp?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvNXdtODFpTkVYcGR2eTR5elVGWlJhZS9zYW5kYm94L09SNFRveUhuMTJZVVlrVzZXYnZqNGwtaW1hZ2VzXzE3NTMyMzk4NTMxOTVfbmExZm5fTDJodmJXVXZkV0oxYm5SMUwyZDBZVjkyYVY5amIyMXBibWRmYzI5dmJnLndlYnAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTg3NjE2MDB9fX1dfQ__&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=gVbvi7WZ8~XEAqpeVqEXAzWnbH9wGtEqHT5UUFXpazrSHakan7igiETNkmTO8fGdjchAnBSFVESedFlWK1pr0WE8nbnys8K8-9wFRW98sML6XDmJfUgpVgbGKhKtLal09KcLzM5ds8hx6aQOHaQ7YcQgqGjJTZI~aG5KG~yxN1m4m~uRk0dcmUk2Vw5s~NDOXGAC57Zf9menYzdNMPwMMn3yvAWLBzjiajLRBERQDXOzHAgCO8KLEW3CO1F7AKsiLIOe4voTm5tGjzBi~k-P3cs2RATkMflV6EAcKJsP2IRfAbANNcRt9DRlSJMGc3ogFUpIZMZh2KBxpmTVYEjpvw__)
-
-
-
-
-
 
 ## 🎮 Gameplay Preview
 
